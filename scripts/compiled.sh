@@ -1,0 +1,1 @@
+bash scripts/initialise_models

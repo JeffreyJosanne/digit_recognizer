@@ -1,0 +1,2233 @@
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:36:08 2017
+  Ref : everyone.mlf
+  Rec : rec/s0231469_test01.rec
+      : rec/s0231469_test02.rec
+      : rec/s0231469_test03.rec
+      : rec/s0231469_test04.rec
+      : rec/s0231469_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.67 [H=29, S=1, N=30]
+WORD: %Corr=96.67, Acc=96.67 [H=29, D=0, S=1, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   2   0   0   0   0   0   1   0   0    0 [66.7/3.3]
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:36:11 2017
+  Ref : everyone.mlf
+  Rec : rec/s0344859_test01.rec
+      : rec/s0344859_test02.rec
+      : rec/s0344859_test03.rec
+      : rec/s0344859_test04.rec
+      : rec/s0344859_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=81.58 [H=31, S=7, N=38]
+WORD: %Corr=81.58, Acc=81.58 [H=31, D=0, S=7, I=0, N=38]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   4   0   0   0   0   0   0   0   0   0    0
+ one   0   4   0   0   0   0   0   0   0   0    0
+ two   0   0   4   0   0   0   0   0   0   0    0
+thre   0   0   0   4   0   0   0   0   0   0    0
+four   3   0   0   0   1   0   0   0   0   0    0 [25.0/7.9]
+five   0   0   0   0   0   2   0   0   0   0    0
+ six   0   0   0   0   0   0   4   0   0   0    0
+seve   0   0   0   0   0   0   0   4   0   0    0
+eigh   0   0   1   0   0   0   1   0   2   0    0 [50.0/5.3]
+nine   1   0   0   0   0   0   0   1   0   2    0 [50.0/5.3]
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:36:14 2017
+  Ref : everyone.mlf
+  Rec : rec/s0450918_test01.rec
+      : rec/s0450918_test02.rec
+      : rec/s0450918_test03.rec
+      : rec/s0450918_test04.rec
+      : rec/s0450918_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:36:17 2017
+  Ref : everyone.mlf
+  Rec : rec/s0450928_test01.rec
+      : rec/s0450928_test02.rec
+      : rec/s0450928_test03.rec
+      : rec/s0450928_test04.rec
+      : rec/s0450928_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=90.00 [H=27, S=3, N=30]
+WORD: %Corr=90.00, Acc=90.00 [H=27, D=0, S=3, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e 
+       e   n   w   h   o   i   i   e   i 
+       r   e   o   r   u   v   x   v   g 
+       o           e   r   e       e   h 
+                   e               n   t  Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0    0
+seve   0   0   0   0   0   0   0   3   0    0
+eigh   0   0   0   0   0   0   0   0   3    0
+nine   0   3   0   0   0   0   0   0   0    0 [ 0.0/10.0]
+Ins    0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:36:20 2017
+  Ref : everyone.mlf
+  Rec : rec/s0450990_test01.rec
+      : rec/s0450990_test02.rec
+      : rec/s0450990_test03.rec
+      : rec/s0450990_test04.rec
+      : rec/s0450990_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.67 [H=29, S=1, N=30]
+WORD: %Corr=96.67, Acc=96.67 [H=29, D=0, S=1, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   1   0   2   0    0 [66.7/3.3]
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:36:23 2017
+  Ref : everyone.mlf
+  Rec : rec/s0453738_test01.rec
+      : rec/s0453738_test02.rec
+      : rec/s0453738_test03.rec
+      : rec/s0453738_test04.rec
+      : rec/s0453738_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:36:25 2017
+  Ref : everyone.mlf
+  Rec : rec/s0453767_test01.rec
+      : rec/s0453767_test02.rec
+      : rec/s0453767_test03.rec
+      : rec/s0453767_test04.rec
+      : rec/s0453767_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=90.32 [H=28, S=3, N=31]
+WORD: %Corr=90.32, Acc=90.32 [H=28, D=0, S=3, I=0, N=31]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   f   f   s   s   e   n 
+       e   n   w   o   i   i   e   i   i 
+       r   e   o   u   v   x   v   g   n 
+       o           r   e       e   h   e 
+                               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0    0
+thre   1   0   0   0   0   1   0   0   1    0 [ 0.0/9.7]
+four   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   4   0   0   0    0
+seve   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:36:29 2017
+  Ref : everyone.mlf
+  Rec : rec/s0454417_test01.rec
+      : rec/s0454417_test02.rec
+      : rec/s0454417_test03.rec
+      : rec/s0454417_test04.rec
+      : rec/s0454417_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=80.00 [H=24, S=6, N=30]
+WORD: %Corr=80.00, Acc=80.00 [H=24, D=0, S=6, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   e 
+       e   n   w   h   o   i   e   i 
+       r   e   o   r   u   v   v   g 
+       o           e   r   e   e   h 
+                   e           n   t  Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0    0
+four   0   0   0   0   3   0   0   0    0
+five   0   0   0   0   0   3   0   0    0
+ six   0   0   0   3   0   0   0   0    0 [ 0.0/10.0]
+seve   0   0   0   0   0   0   3   0    0
+eigh   0   0   0   0   0   0   0   3    0
+nine   0   3   0   0   0   0   0   0    0 [ 0.0/10.0]
+Ins    0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:36:31 2017
+  Ref : everyone.mlf
+  Rec : rec/s0560804_test01.rec
+      : rec/s0560804_test02.rec
+      : rec/s0560804_test03.rec
+      : rec/s0560804_test04.rec
+      : rec/s0560804_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.67 [H=29, S=1, N=30]
+WORD: %Corr=96.67, Acc=96.67 [H=29, D=0, S=1, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   1   0   2   0    0 [66.7/3.3]
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:36:35 2017
+  Ref : everyone.mlf
+  Rec : rec/s0563087_test01.rec
+      : rec/s0563087_test02.rec
+      : rec/s0563087_test03.rec
+      : rec/s0563087_test04.rec
+      : rec/s0563087_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=97.50 [H=39, S=1, N=40]
+WORD: %Corr=97.50, Acc=97.50 [H=39, D=0, S=1, I=0, N=40]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   4   0   0   0   0   0   0   0   0   0    0
+ one   0   4   0   0   0   0   0   0   0   0    0
+ two   0   0   4   0   0   0   0   0   0   0    0
+thre   0   0   0   4   0   0   0   0   0   0    0
+four   0   0   0   0   4   0   0   0   0   0    0
+five   0   0   0   0   0   4   0   0   0   0    0
+ six   0   0   0   0   0   0   4   0   0   0    0
+seve   0   0   0   0   0   0   0   4   0   0    0
+eigh   0   0   0   0   0   0   0   0   4   0    0
+nine   0   1   0   0   0   0   0   0   0   3    0 [75.0/2.5]
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:36:38 2017
+  Ref : everyone.mlf
+  Rec : rec/s0565839_test01.rec
+      : rec/s0565839_test02.rec
+      : rec/s0565839_test03.rec
+      : rec/s0565839_test04.rec
+      : rec/s0565839_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:36:41 2017
+  Ref : everyone.mlf
+  Rec : rec/s0565890_test01.rec
+      : rec/s0565890_test02.rec
+      : rec/s0565890_test03.rec
+      : rec/s0565890_test04.rec
+      : rec/s0565890_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=68.97 [H=20, S=9, N=29]
+WORD: %Corr=68.97, Acc=68.97 [H=20, D=0, S=9, I=0, N=29]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   f   f   s   s   e   n 
+       e   n   h   o   i   i   e   i   i 
+       r   e   r   u   v   x   v   g   n 
+       o       e   r   e       e   h   e 
+               e               n   t      Del [ %c / %e]
+zero   2   0   0   0   0   1   0   0   0    0 [66.7/3.4]
+ one   0   3   0   0   0   0   0   0   0    0
+ two   0   0   0   0   0   3   0   0   0    0 [ 0.0/10.3]
+thre   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   2   0   0   0   0   0    0
+five   0   0   0   0   1   2   0   0   0    0 [33.3/6.9]
+ six   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   2   1   0   0    0 [33.3/6.9]
+eigh   0   0   0   0   0   1   0   2   0    0 [66.7/3.4]
+nine   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:36:45 2017
+  Ref : everyone.mlf
+  Rec : rec/s0570475_test01.rec
+      : rec/s0570475_test02.rec
+      : rec/s0570475_test03.rec
+      : rec/s0570475_test04.rec
+      : rec/s0570475_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=90.00 [H=36, S=4, N=40]
+WORD: %Corr=90.00, Acc=90.00 [H=36, D=0, S=4, I=0, N=40]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e 
+       e   n   w   h   o   i   i   e   i 
+       r   e   o   r   u   v   x   v   g 
+       o           e   r   e       e   h 
+                   e               n   t  Del [ %c / %e]
+zero   4   0   0   0   0   0   0   0   0    0
+ one   0   4   0   0   0   0   0   0   0    0
+ two   0   0   4   0   0   0   0   0   0    0
+thre   0   0   0   4   0   0   0   0   0    0
+four   0   0   0   0   4   0   0   0   0    0
+five   0   0   0   0   0   4   0   0   0    0
+ six   0   0   0   0   0   0   4   0   0    0
+seve   0   0   0   0   0   0   0   4   0    0
+eigh   0   0   0   0   0   0   0   0   4    0
+nine   0   0   0   0   0   4   0   0   0    0 [ 0.0/10.0]
+Ins    0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:36:48 2017
+  Ref : everyone.mlf
+  Rec : rec/s0676047_test01.rec
+      : rec/s0676047_test02.rec
+      : rec/s0676047_test03.rec
+      : rec/s0676047_test04.rec
+      : rec/s0676047_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=40, S=0, N=40]
+WORD: %Corr=100.00, Acc=100.00 [H=40, D=0, S=0, I=0, N=40]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   4   0   0   0   0   0   0   0   0   0    0
+ one   0   4   0   0   0   0   0   0   0   0    0
+ two   0   0   4   0   0   0   0   0   0   0    0
+thre   0   0   0   4   0   0   0   0   0   0    0
+four   0   0   0   0   4   0   0   0   0   0    0
+five   0   0   0   0   0   4   0   0   0   0    0
+ six   0   0   0   0   0   0   4   0   0   0    0
+seve   0   0   0   0   0   0   0   4   0   0    0
+eigh   0   0   0   0   0   0   0   0   4   0    0
+nine   0   0   0   0   0   0   0   0   0   4    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:36:50 2017
+  Ref : everyone.mlf
+  Rec : rec/s0679432_test01.rec
+      : rec/s0679432_test02.rec
+      : rec/s0679432_test03.rec
+      : rec/s0679432_test04.rec
+      : rec/s0679432_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:36:53 2017
+  Ref : everyone.mlf
+  Rec : rec/s0834892_test01.rec
+      : rec/s0834892_test02.rec
+      : rec/s0834892_test03.rec
+      : rec/s0834892_test04.rec
+      : rec/s0834892_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=73.33 [H=22, S=8, N=30]
+WORD: %Corr=73.33, Acc=73.33 [H=22, D=0, S=8, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   f   f   s   s   e 
+       e   n   h   o   i   i   e   i 
+       r   e   r   u   v   x   v   g 
+       o       e   r   e       e   h 
+               e               n   t  Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0    0
+ two   3   0   0   0   0   0   0   0    0 [ 0.0/10.0]
+thre   2   0   1   0   0   0   0   0    0 [33.3/6.7]
+four   0   0   0   3   0   0   0   0    0
+five   0   0   0   0   3   0   0   0    0
+ six   0   0   0   0   0   3   0   0    0
+seve   0   0   0   0   0   0   3   0    0
+eigh   0   0   0   0   0   0   0   3    0
+nine   1   2   0   0   0   0   0   0    0 [ 0.0/10.0]
+Ins    0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:36:56 2017
+  Ref : everyone.mlf
+  Rec : rec/s1053080_test01.rec
+      : rec/s1053080_test02.rec
+      : rec/s1053080_test03.rec
+      : rec/s1053080_test04.rec
+      : rec/s1053080_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.67 [H=29, S=1, N=30]
+WORD: %Corr=96.67, Acc=96.67 [H=29, D=0, S=1, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   2   0   0   0   0   0   0   1   0   0    0 [66.7/3.3]
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:36:58 2017
+  Ref : everyone.mlf
+  Rec : rec/s1060613_test01.rec
+      : rec/s1060613_test02.rec
+      : rec/s1060613_test03.rec
+      : rec/s1060613_test04.rec
+      : rec/s1060613_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:01 2017
+  Ref : everyone.mlf
+  Rec : rec/s1053697_test01.rec
+      : rec/s1053697_test02.rec
+      : rec/s1053697_test03.rec
+      : rec/s1053697_test04.rec
+      : rec/s1053697_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.67 [H=29, S=1, N=30]
+WORD: %Corr=96.67, Acc=96.67 [H=29, D=0, S=1, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   1   0   0   0   0   0   0   0   2    0 [66.7/3.3]
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:04 2017
+  Ref : everyone.mlf
+  Rec : rec/s1057505_test01.rec
+      : rec/s1057505_test02.rec
+      : rec/s1057505_test03.rec
+      : rec/s1057505_test04.rec
+      : rec/s1057505_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=70.00 [H=21, S=9, N=30]
+WORD: %Corr=70.00, Acc=70.00 [H=21, D=0, S=9, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   t   t   f   s   s   e   n 
+       e   w   h   o   i   e   i   i 
+       r   o   r   u   x   v   g   n 
+       o       e   r       e   h   e 
+               e           n   t      Del [ %c / %e]
+zero   3   0   0   0   1   0   0   0    0 [75.0/3.3]
+ one   0   0   0   2   1   0   0   0    0 [ 0.0/10.0]
+ two   0   3   0   0   0   0   0   0    0
+thre   0   0   2   0   0   0   0   0    0
+four   0   0   0   3   0   0   0   0    0
+five   0   0   0   0   3   0   0   0    0 [ 0.0/10.0]
+ six   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   2   1   0   0    0 [33.3/6.7]
+eigh   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:08 2017
+  Ref : everyone.mlf
+  Rec : rec/s1158260_test01.rec
+      : rec/s1158260_test02.rec
+      : rec/s1158260_test03.rec
+      : rec/s1158260_test04.rec
+      : rec/s1158260_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=76.67 [H=23, S=7, N=30]
+WORD: %Corr=76.67, Acc=76.67 [H=23, D=0, S=7, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   s   s   e 
+       e   n   w   h   i   i   e   i 
+       r   e   o   r   v   x   v   g 
+       o           e   e       e   h 
+                   e           n   t  Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0    0
+ two   1   0   2   0   0   0   0   0    0 [66.7/3.3]
+thre   0   0   0   3   0   0   0   0    0
+four   0   2   0   0   1   0   0   0    0 [ 0.0/10.0]
+five   0   0   0   0   3   0   0   0    0
+ six   0   0   0   0   0   3   0   0    0
+seve   0   0   0   0   0   0   3   0    0
+eigh   0   0   0   0   0   0   0   3    0
+nine   0   3   0   0   0   0   0   0    0 [ 0.0/10.0]
+Ins    0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:10 2017
+  Ref : everyone.mlf
+  Rec : rec/s1212703_test01.rec
+      : rec/s1212703_test02.rec
+      : rec/s1212703_test03.rec
+      : rec/s1212703_test04.rec
+      : rec/s1212703_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.67 [H=29, S=1, N=30]
+WORD: %Corr=96.67, Acc=96.67 [H=29, D=0, S=1, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   2   0   0   0   1   0   0   0   0    0 [66.7/3.3]
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:13 2017
+  Ref : everyone.mlf
+  Rec : rec/s1219694_test01.rec
+      : rec/s1219694_test02.rec
+      : rec/s1219694_test03.rec
+      : rec/s1219694_test04.rec
+      : rec/s1219694_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.67 [H=29, S=1, N=30]
+WORD: %Corr=96.67, Acc=96.67 [H=29, D=0, S=1, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   2   0   0   1   0   0    0 [66.7/3.3]
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:16 2017
+  Ref : everyone.mlf
+  Rec : rec/s1242643_test01.rec
+      : rec/s1242643_test02.rec
+      : rec/s1242643_test03.rec
+      : rec/s1242643_test04.rec
+      : rec/s1242643_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=73.33 [H=22, S=8, N=30]
+WORD: %Corr=73.33, Acc=73.33 [H=22, D=0, S=8, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       o   t   t   f   f   s   s   e 
+       n   w   h   o   i   i   e   i 
+       e   o   r   u   v   x   v   g 
+               e   r   e       e   h 
+               e               n   t  Del [ %c / %e]
+zero   0   0   0   0   0   0   3   0    0 [ 0.0/10.0]
+ one   3   0   0   0   0   0   0   0    0
+ two   0   3   0   0   0   0   0   0    0
+thre   0   0   3   0   0   0   0   0    0
+four   0   0   0   3   0   0   0   0    0
+five   0   0   0   0   1   0   2   0    0 [33.3/6.7]
+ six   0   0   0   0   0   3   0   0    0
+seve   0   0   0   0   0   0   3   0    0
+eigh   0   0   0   0   0   0   0   3    0
+nine   0   0   0   0   0   0   3   0    0 [ 0.0/10.0]
+Ins    0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:18 2017
+  Ref : everyone.mlf
+  Rec : rec/s1255719_test01.rec
+      : rec/s1255719_test02.rec
+      : rec/s1255719_test04.rec
+      : rec/s1255719_test05.rec
+      : rec/s1255719_test06.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=28, S=0, N=28]
+WORD: %Corr=100.00, Acc=100.00 [H=28, D=0, S=0, I=0, N=28]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   2   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   2    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:24 2017
+  Ref : everyone.mlf
+  Rec : rec/s1262348_test01.rec
+      : rec/s1262348_test02.rec
+      : rec/s1262348_test03.rec
+      : rec/s1262348_test04.rec
+      : rec/s1262348_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=97.50 [H=39, S=1, N=40]
+WORD: %Corr=97.50, Acc=97.50 [H=39, D=0, S=1, I=0, N=40]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   1   0   0    0 [75.0/2.5]
+ one   0   4   0   0   0   0   0   0   0   0    0
+ two   0   0   4   0   0   0   0   0   0   0    0
+thre   0   0   0   4   0   0   0   0   0   0    0
+four   0   0   0   0   4   0   0   0   0   0    0
+five   0   0   0   0   0   4   0   0   0   0    0
+ six   0   0   0   0   0   0   4   0   0   0    0
+seve   0   0   0   0   0   0   0   4   0   0    0
+eigh   0   0   0   0   0   0   0   0   4   0    0
+nine   0   0   0   0   0   0   0   0   0   4    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:26 2017
+  Ref : everyone.mlf
+  Rec : rec/s1266300_test01.rec
+      : rec/s1266300_test02.rec
+      : rec/s1266300_test03.rec
+      : rec/s1266300_test04.rec
+      : rec/s1266300_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=90.00 [H=27, S=3, N=30]
+WORD: %Corr=90.00, Acc=90.00 [H=27, D=0, S=3, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   s   s   e   n 
+       e   n   w   h   i   i   e   i   i 
+       r   e   o   r   v   x   v   g   n 
+       o           e   e       e   h   e 
+                   e           n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0    0 [ 0.0/10.0]
+five   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:29 2017
+  Ref : everyone.mlf
+  Rec : rec/s1266322_test01.rec
+      : rec/s1266322_test02.rec
+      : rec/s1266322_test03.rec
+      : rec/s1266322_test04.rec
+      : rec/s1266322_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=56.67 [H=17, S=13, N=30]
+WORD: %Corr=56.67, Acc=56.67 [H=17, D=0, S=13, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   t   t   f   s   s   e   n 
+       e   w   h   i   i   e   i   i 
+       r   o   r   v   x   v   g   n 
+       o       e   e       e   h   e 
+               e           n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0    0
+ one   0   2   0   0   1   0   0   0    0 [ 0.0/10.0]
+ two   0   3   0   0   0   0   0   0    0
+thre   0   0   3   0   0   0   0   0    0
+four   0   0   1   0   2   0   0   0    0 [ 0.0/10.0]
+five   0   0   0   1   2   0   0   0    0 [33.3/6.7]
+ six   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   2   1   0   0    0 [33.3/6.7]
+eigh   0   0   0   0   1   0   2   0    0 [66.7/3.3]
+nine   0   1   0   0   1   0   0   1    0 [33.3/6.7]
+Ins    0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:32 2017
+  Ref : everyone.mlf
+  Rec : rec/s1266927_test01.rec
+      : rec/s1266927_test02.rec
+      : rec/s1266927_test03.rec
+      : rec/s1266927_test04.rec
+      : rec/s1266927_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:35 2017
+  Ref : everyone.mlf
+  Rec : rec/s1355318_test01.rec
+      : rec/s1355318_test02.rec
+      : rec/s1355318_test03.rec
+      : rec/s1355318_test04.rec
+      : rec/s1355318_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:37 2017
+  Ref : everyone.mlf
+  Rec : rec/s1367766_test01.rec
+      : rec/s1367766_test02.rec
+      : rec/s1367766_test03.rec
+      : rec/s1367766_test04.rec
+      : rec/s1367766_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:40 2017
+  Ref : everyone.mlf
+  Rec : rec/s1336117_test01.rec
+      : rec/s1336117_test02.rec
+      : rec/s1336117_test03.rec
+      : rec/s1336117_test04.rec
+      : rec/s1336117_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:43 2017
+  Ref : everyone.mlf
+  Rec : rec/s1036740_test01.rec
+      : rec/s1036740_test02.rec
+      : rec/s1036740_test03.rec
+      : rec/s1036740_test04.rec
+      : rec/s1036740_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:46 2017
+  Ref : everyone.mlf
+  Rec : rec/s1148578_test01.rec
+      : rec/s1148578_test02.rec
+      : rec/s1148578_test03.rec
+      : rec/s1148578_test04.rec
+      : rec/s1148578_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:51 2017
+  Ref : everyone.mlf
+  Rec : rec/s1367454_test01.rec
+      : rec/s1367454_test02.rec
+      : rec/s1367454_test03.rec
+      : rec/s1367454_test04.rec
+      : rec/s1367454_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=94.12 [H=32, S=2, N=34]
+WORD: %Corr=94.12, Acc=94.12 [H=32, D=0, S=2, I=0, N=34]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   1   0   0    0 [75.0/2.9]
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   4   0   0   0    0
+seve   0   0   0   0   0   0   1   2   0   0    0 [66.7/2.9]
+eigh   0   0   0   0   0   0   0   0   5   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:54 2017
+  Ref : everyone.mlf
+  Rec : rec/s1204877_test01.rec
+      : rec/s1204877_test02.rec
+      : rec/s1204877_test03.rec
+      : rec/s1204877_test04.rec
+      : rec/s1204877_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=40, S=0, N=40]
+WORD: %Corr=100.00, Acc=100.00 [H=40, D=0, S=0, I=0, N=40]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   4   0   0   0   0   0   0   0   0   0    0
+ one   0   4   0   0   0   0   0   0   0   0    0
+ two   0   0   4   0   0   0   0   0   0   0    0
+thre   0   0   0   4   0   0   0   0   0   0    0
+four   0   0   0   0   4   0   0   0   0   0    0
+five   0   0   0   0   0   4   0   0   0   0    0
+ six   0   0   0   0   0   0   4   0   0   0    0
+seve   0   0   0   0   0   0   0   4   0   0    0
+eigh   0   0   0   0   0   0   0   0   4   0    0
+nine   0   0   0   0   0   0   0   0   0   4    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:57 2017
+  Ref : everyone.mlf
+  Rec : rec/s1239695_test01.rec
+      : rec/s1239695_test02.rec
+      : rec/s1239695_test03.rec
+      : rec/s1239695_test04.rec
+      : rec/s1239695_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=33.33 [H=10, S=20, N=30]
+WORD: %Corr=33.33, Acc=33.33 [H=10, D=0, S=20, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   t   t   f   e 
+       e   w   h   i   i 
+       r   o   r   v   g 
+       o       e   e   h 
+               e       t  Del [ %c / %e]
+zero   1   0   0   2   0    0 [33.3/6.7]
+ one   0   0   0   2   0    0 [ 0.0/6.7]
+ two   0   1   0   2   0    0 [33.3/6.7]
+thre   0   0   2   1   0    0 [66.7/3.3]
+four   0   0   0   3   0    0 [ 0.0/10.0]
+five   0   0   0   3   0    0
+ six   0   0   3   0   0    0 [ 0.0/10.0]
+seve   0   0   0   3   0    0 [ 0.0/10.0]
+eigh   0   0   0   0   3    0
+nine   0   0   0   4   0    0 [ 0.0/13.3]
+Ins    0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:37:59 2017
+  Ref : everyone.mlf
+  Rec : rec/s1247148_test01.rec
+      : rec/s1247148_test02.rec
+      : rec/s1247148_test03.rec
+      : rec/s1247148_test04.rec
+      : rec/s1247148_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:38:03 2017
+  Ref : everyone.mlf
+  Rec : rec/s1416663_test01.rec
+      : rec/s1416663_test02.rec
+      : rec/s1416663_test03.rec
+      : rec/s1416663_test04.rec
+      : rec/s1416663_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=90.00 [H=27, S=3, N=30]
+WORD: %Corr=90.00, Acc=90.00 [H=27, D=0, S=3, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   2   0   0   0   0   0   1   0   0    0 [66.7/3.3]
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   2   0   0   0   0   0   1    0 [33.3/6.7]
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:38:06 2017
+  Ref : everyone.mlf
+  Rec : rec/s1428244_test01.rec
+      : rec/s1428244_test02.rec
+      : rec/s1428244_test03.rec
+      : rec/s1428244_test04.rec
+      : rec/s1428244_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.67 [H=29, S=1, N=30]
+WORD: %Corr=96.67, Acc=96.67 [H=29, D=0, S=1, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   1    0 [75.0/3.3]
+nine   0   0   0   0   0   0   0   0   0   2    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:38:08 2017
+  Ref : everyone.mlf
+  Rec : rec/s1439222_test01.rec
+      : rec/s1439222_test02.rec
+      : rec/s1439222_test03.rec
+      : rec/s1439222_test04.rec
+      : rec/s1439222_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:38:11 2017
+  Ref : everyone.mlf
+  Rec : rec/s1449834_test01.rec
+      : rec/s1449834_test02.rec
+      : rec/s1449834_test03.rec
+      : rec/s1449834_test04.rec
+      : rec/s1449834_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:38:14 2017
+  Ref : everyone.mlf
+  Rec : rec/s1458392_test01.rec
+      : rec/s1458392_test02.rec
+      : rec/s1458392_test03.rec
+      : rec/s1458392_test04.rec
+      : rec/s1458392_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:38:17 2017
+  Ref : everyone.mlf
+  Rec : rec/s1464908_test01.rec
+      : rec/s1464908_test02.rec
+      : rec/s1464908_test03.rec
+      : rec/s1464908_test04.rec
+      : rec/s1464908_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:38:23 2017
+  Ref : everyone.mlf
+  Rec : rec/s1466878_test01.rec
+      : rec/s1466878_test02.rec
+      : rec/s1466878_test03.rec
+      : rec/s1466878_test04.rec
+      : rec/s1466878_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.67 [H=29, S=1, N=30]
+WORD: %Corr=96.67, Acc=96.67 [H=29, D=0, S=1, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   2   0   0   0   1   0   0   0   0    0 [66.7/3.3]
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:38:26 2017
+  Ref : everyone.mlf
+  Rec : rec/s1468596_test01.rec
+      : rec/s1468596_test02.rec
+      : rec/s1468596_test03.rec
+      : rec/s1468596_test04.rec
+      : rec/s1468596_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=93.33 [H=28, S=2, N=30]
+WORD: %Corr=93.33, Acc=93.33 [H=28, D=0, S=2, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   2   0   0   0   0   0   0   0   1    0 [66.7/3.3]
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   2   0   0   1   0   0   0    0 [66.7/3.3]
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:38:29 2017
+  Ref : everyone.mlf
+  Rec : rec/s1566512_test01.rec
+      : rec/s1566512_test02.rec
+      : rec/s1566512_test03.rec
+      : rec/s1566512_test04.rec
+      : rec/s1566512_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:38:32 2017
+  Ref : everyone.mlf
+  Rec : rec/s1572044_test01.rec
+      : rec/s1572044_test02.rec
+      : rec/s1572044_test03.rec
+      : rec/s1572044_test04.rec
+      : rec/s1572044_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=90.00 [H=27, S=3, N=30]
+WORD: %Corr=90.00, Acc=90.00 [H=27, D=0, S=3, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   f   f   s   s   e   n 
+       e   n   h   o   i   i   e   i   i 
+       r   e   r   u   v   x   v   g   n 
+       o       e   r   e       e   h   e 
+               e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0    0
+ two   3   0   0   0   0   0   0   0   0    0 [ 0.0/10.0]
+thre   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:38:36 2017
+  Ref : everyone.mlf
+  Rec : rec/s1562078_test01.rec
+      : rec/s1562078_test02.rec
+      : rec/s1562078_test03.rec
+      : rec/s1562078_test04.rec
+      : rec/s1562078_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=95.00 [H=38, S=2, N=40]
+WORD: %Corr=95.00, Acc=95.00 [H=38, D=0, S=2, I=0, N=40]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   4   0   0   0   0   0   0   0   0   0    0
+ one   0   4   0   0   0   0   0   0   0   0    0
+ two   0   0   4   0   0   0   0   0   0   0    0
+thre   0   0   0   4   0   0   0   0   0   0    0
+four   0   0   0   0   4   0   0   0   0   0    0
+five   0   0   0   0   2   2   0   0   0   0    0 [50.0/5.0]
+ six   0   0   0   0   0   0   4   0   0   0    0
+seve   0   0   0   0   0   0   0   4   0   0    0
+eigh   0   0   0   0   0   0   0   0   4   0    0
+nine   0   0   0   0   0   0   0   0   0   4    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:38:39 2017
+  Ref : everyone.mlf
+  Rec : rec/s1565865_test01.rec
+      : rec/s1565865_test02.rec
+      : rec/s1565865_test03.rec
+      : rec/s1565865_test04.rec
+      : rec/s1565865_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:38:42 2017
+  Ref : everyone.mlf
+  Rec : rec/s1471823_test01.rec
+      : rec/s1471823_test02.rec
+      : rec/s1471823_test03.rec
+      : rec/s1471823_test04.rec
+      : rec/s1471823_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.67 [H=29, S=1, N=30]
+WORD: %Corr=96.67, Acc=96.67 [H=29, D=0, S=1, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   1   0   0   0   0   0   0   0   2    0 [66.7/3.3]
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:38:45 2017
+  Ref : everyone.mlf
+  Rec : rec/s1423284_test01.rec
+      : rec/s1423284_test02.rec
+      : rec/s1423284_test03.rec
+      : rec/s1423284_test04.rec
+      : rec/s1423284_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:38:48 2017
+  Ref : everyone.mlf
+  Rec : rec/s1212806_test01.rec
+      : rec/s1212806_test02.rec
+      : rec/s1212806_test03.rec
+      : rec/s1212806_test04.rec
+      : rec/s1212806_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:38:51 2017
+  Ref : everyone.mlf
+  Rec : rec/s0907677_test01.rec
+      : rec/s0907677_test02.rec
+      : rec/s0907677_test03.rec
+      : rec/s0907677_test04.rec
+      : rec/s0907677_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:38:54 2017
+  Ref : everyone.mlf
+  Rec : rec/s1474784_test01.rec
+      : rec/s1474784_test02.rec
+      : rec/s1474784_test03.rec
+      : rec/s1474784_test04.rec
+      : rec/s1474784_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.67 [H=29, S=1, N=30]
+WORD: %Corr=96.67, Acc=96.67 [H=29, D=0, S=1, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   1   0   0   0   2    0 [66.7/3.3]
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:38:57 2017
+  Ref : everyone.mlf
+  Rec : rec/s1572403_test01.rec
+      : rec/s1572403_test02.rec
+      : rec/s1572403_test03.rec
+      : rec/s1572403_test04.rec
+      : rec/s1572403_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.67 [H=29, S=1, N=30]
+WORD: %Corr=96.67, Acc=96.67 [H=29, D=0, S=1, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   2   0   0   1   0   0   0    0 [66.7/3.3]
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:38:59 2017
+  Ref : everyone.mlf
+  Rec : rec/s1520337_test01.rec
+      : rec/s1520337_test02.rec
+      : rec/s1520337_test03.rec
+      : rec/s1520337_test04.rec
+      : rec/s1520337_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=90.00 [H=27, S=3, N=30]
+WORD: %Corr=90.00, Acc=90.00 [H=27, D=0, S=3, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   f   f   s   s   e   n 
+       e   n   h   o   i   i   e   i   i 
+       r   e   r   u   v   x   v   g   n 
+       o       e   r   e       e   h   e 
+               e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0    0
+ two   0   0   0   0   0   0   3   0   0    0 [ 0.0/10.0]
+thre   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:02 2017
+  Ref : everyone.mlf
+  Rec : rec/s1551548_test01.rec
+      : rec/s1551548_test02.rec
+      : rec/s1551548_test03.rec
+      : rec/s1551548_test04.rec
+      : rec/s1551548_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:05 2017
+  Ref : everyone.mlf
+  Rec : rec/s1309783_test01.rec
+      : rec/s1309783_test02.rec
+      : rec/s1309783_test03.rec
+      : rec/s1309783_test04.rec
+      : rec/s1309783_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.67 [H=29, S=1, N=30]
+WORD: %Corr=96.67, Acc=96.67 [H=29, D=0, S=1, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   1   0   0   0   0   2   0    0 [66.7/3.3]
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:08 2017
+  Ref : everyone.mlf
+  Rec : rec/s1204698_test01.rec
+      : rec/s1204698_test02.rec
+      : rec/s1204698_test03.rec
+      : rec/s1204698_test04.rec
+      : rec/s1204698_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   2   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   4   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:11 2017
+  Ref : everyone.mlf
+  Rec : rec/s1522072_test01.rec
+      : rec/s1522072_test02.rec
+      : rec/s1522072_test03.rec
+      : rec/s1522072_test04.rec
+      : rec/s1522072_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=50.00 [H=14, S=14, N=28]
+WORD: %Corr=50.00, Acc=50.00 [H=14, D=0, S=14, I=0, N=28]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   e 
+       e   n   w   h   o   i   i   i 
+       r   e   o   r   u   v   x   g 
+       o           e   r   e       h 
+                   e               t  Del [ %c / %e]
+zero   2   0   0   1   0   0   0   0    0 [66.7/3.6]
+ one   0   1   0   1   0   0   0   0    0 [50.0/3.6]
+ two   0   0   1   2   0   0   0   0    0 [33.3/7.1]
+thre   0   0   0   3   0   0   0   0    0
+four   0   0   0   0   3   0   0   0    0
+five   0   0   0   0   0   2   0   0    0
+ six   0   0   0   2   0   0   1   0    0 [33.3/7.1]
+seve   0   0   0   3   0   0   0   0    0 [ 0.0/10.7]
+eigh   0   0   0   2   0   0   0   1    0 [33.3/7.1]
+nine   0   0   0   3   0   0   0   0    0 [ 0.0/10.7]
+Ins    0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:13 2017
+  Ref : everyone.mlf
+  Rec : rec/s1345717_test01.rec
+      : rec/s1345717_test02.rec
+      : rec/s1345717_test03.rec
+      : rec/s1345717_test04.rec
+      : rec/s1345717_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=72.41 [H=21, S=8, N=29]
+WORD: %Corr=72.41, Acc=72.41 [H=21, D=0, S=8, I=0, N=29]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   s   s   e 
+       e   n   w   h   i   i   e   i 
+       r   e   o   r   v   x   v   g 
+       o           e   e       e   h 
+                   e           n   t  Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0    0
+ one   1   1   0   0   1   0   0   0    0 [33.3/6.9]
+ two   0   0   3   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0    0
+four   3   0   0   0   0   0   0   0    0 [ 0.0/10.3]
+five   0   0   0   0   2   0   0   0    0
+ six   0   0   0   0   0   3   0   0    0
+seve   0   0   0   0   0   0   3   0    0
+eigh   0   0   0   0   0   0   0   3    0
+nine   0   0   0   0   3   0   0   0    0 [ 0.0/10.3]
+Ins    0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:16 2017
+  Ref : everyone.mlf
+  Rec : rec/s1248784_test01.rec
+      : rec/s1248784_test02.rec
+      : rec/s1248784_test03.rec
+      : rec/s1248784_test04.rec
+      : rec/s1248784_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:18 2017
+  Ref : everyone.mlf
+  Rec : rec/s1241360_test01.rec
+      : rec/s1241360_test02.rec
+      : rec/s1241360_test03.rec
+      : rec/s1241360_test04.rec
+      : rec/s1241360_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:21 2017
+  Ref : everyone.mlf
+  Rec : rec/s1668016_test01.rec
+      : rec/s1668016_test02.rec
+      : rec/s1668016_test03.rec
+      : rec/s1668016_test04.rec
+      : rec/s1668016_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:24 2017
+  Ref : everyone.mlf
+  Rec : rec/s1676751_test01.rec
+      : rec/s1676751_test02.rec
+      : rec/s1676751_test03.rec
+      : rec/s1676751_test04.rec
+      : rec/s1676751_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=10.00 [H=3, S=27, N=30]
+WORD: %Corr=10.00, Acc=10.00 [H=3, D=0, S=27, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   0   1   0   0   0   1   0   0   0   1    0 [ 0.0/10.0]
+ one   0   0   0   0   1   0   0   0   1   1    0 [ 0.0/10.0]
+ two   1   2   0   0   0   0   0   0   0   0    0 [ 0.0/10.0]
+thre   0   0   0   1   1   0   0   1   0   0    0 [33.3/6.7]
+four   1   0   0   1   0   0   1   0   0   0    0 [ 0.0/10.0]
+five   0   0   1   0   1   0   0   0   1   0    0 [ 0.0/10.0]
+ six   0   0   0   0   0   0   1   1   0   1    0 [33.3/6.7]
+seve   0   0   0   1   0   1   0   1   0   0    0 [33.3/6.7]
+eigh   0   0   2   0   0   1   0   0   0   0    0 [ 0.0/10.0]
+nine   1   0   0   0   0   0   1   0   1   0    0 [ 0.0/10.0]
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:27 2017
+  Ref : everyone.mlf
+  Rec : rec/s1348495_test01.rec
+      : rec/s1348495_test02.rec
+      : rec/s1348495_test03.rec
+      : rec/s1348495_test04.rec
+      : rec/s1348495_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:30 2017
+  Ref : everyone.mlf
+  Rec : rec/s1631008_test01.rec
+      : rec/s1631008_test02.rec
+      : rec/s1631008_test03.rec
+      : rec/s1631008_test04.rec
+      : rec/s1631008_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:32 2017
+  Ref : everyone.mlf
+  Rec : rec/s1670392_test01.rec
+      : rec/s1670392_test02.rec
+      : rec/s1670392_test03.rec
+      : rec/s1670392_test04.rec
+      : rec/s1670392_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=93.33 [H=28, S=2, N=30]
+WORD: %Corr=93.33, Acc=93.33 [H=28, D=0, S=2, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   1   0   0   2   0    0 [66.7/3.3]
+nine   0   1   0   0   0   0   0   0   0   2    0 [66.7/3.3]
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:35 2017
+  Ref : everyone.mlf
+  Rec : rec/s1674500_test01.rec
+      : rec/s1674500_test02.rec
+      : rec/s1674500_test03.rec
+      : rec/s1674500_test04.rec
+      : rec/s1674500_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:38 2017
+  Ref : everyone.mlf
+  Rec : rec/s1569669_test01.rec
+      : rec/s1569669_test02.rec
+      : rec/s1569669_test03.rec
+      : rec/s1569669_test04.rec
+      : rec/s1569669_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:41 2017
+  Ref : everyone.mlf
+  Rec : rec/s1659887_test01.rec
+      : rec/s1659887_test02.rec
+      : rec/s1659887_test03.rec
+      : rec/s1659887_test04.rec
+      : rec/s1659887_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.67 [H=29, S=1, N=30]
+WORD: %Corr=96.67, Acc=96.67 [H=29, D=0, S=1, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   1   0   0   0   0   2   0    0 [66.7/3.3]
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:43 2017
+  Ref : everyone.mlf
+  Rec : rec/s1683786_test01.rec
+      : rec/s1683786_test02.rec
+      : rec/s1683786_test03.rec
+      : rec/s1683786_test04.rec
+      : rec/s1683786_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=29, S=0, N=29]
+WORD: %Corr=100.00, Acc=100.00 [H=29, D=0, S=0, I=0, N=29]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   2   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:46 2017
+  Ref : everyone.mlf
+  Rec : rec/s1440799_test01.rec
+      : rec/s1440799_test02.rec
+      : rec/s1440799_test03.rec
+      : rec/s1440799_test04.rec
+      : rec/s1440799_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.67 [H=29, S=1, N=30]
+WORD: %Corr=96.67, Acc=96.67 [H=29, D=0, S=1, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   2   1   0   0   0   0   0   0    0 [66.7/3.3]
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:49 2017
+  Ref : everyone.mlf
+  Rec : rec/s1675173_test01.rec
+      : rec/s1675173_test02.rec
+      : rec/s1675173_test03.rec
+      : rec/s1675173_test04.rec
+      : rec/s1675173_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=96.55 [H=28, S=1, N=29]
+WORD: %Corr=96.55, Acc=96.55 [H=28, D=0, S=1, I=0, N=29]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   2   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   2   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   1   0   0   0   0   2   0    0 [66.7/3.4]
+nine   0   0   0   0   0   0   0   0   0   4    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:52 2017
+  Ref : everyone.mlf
+  Rec : rec/s1454439_test01.rec
+      : rec/s1454439_test02.rec
+      : rec/s1454439_test03.rec
+      : rec/s1454439_test04.rec
+      : rec/s1454439_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 16:39:54 2017
+  Ref : everyone.mlf
+  Rec : rec/s1777805_test01.rec
+      : rec/s1777805_test02.rec
+      : rec/s1777805_test03.rec
+      : rec/s1777805_test04.rec
+      : rec/s1777805_test05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=100.00 [H=30, S=0, N=30]
+WORD: %Corr=100.00, Acc=100.00 [H=30, D=0, S=0, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       z   o   t   t   f   f   s   s   e   n 
+       e   n   w   h   o   i   i   e   i   i 
+       r   e   o   r   u   v   x   v   g   n 
+       o           e   r   e       e   h   e 
+                   e               n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0   0   0    0
+ one   0   3   0   0   0   0   0   0   0   0    0
+ two   0   0   3   0   0   0   0   0   0   0    0
+thre   0   0   0   3   0   0   0   0   0   0    0
+four   0   0   0   0   3   0   0   0   0   0    0
+five   0   0   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   0   0   3   0   0   0    0
+seve   0   0   0   0   0   0   0   3   0   0    0
+eigh   0   0   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0   0   0
+===================================================================

@@ -1,0 +1,28 @@
+#!/usr/local/bin/bash
+
+
+USER="s0231469"
+DATA="/Users/jeffrey/Downloads/UoE/Sem1/sp/digit_recogniser"
+touch outputFile.txt
+
+shopt -s extglob
+
+for USER in `cat resources/user_list`
+do
+echo ${USER}
+HResults -p \
+ -I lab/test/${USER}_test.mlf \
+ resources/word_list \
+ rec/*.rec >> outputFile.txt
+
+done
+
+# to do results for more than one speaker you need to load more than
+# one MLF and more than one set of .rec files. Do it like this:
+#
+# HResults -p \
+#  -I ${DATA}/lab/test/simonk_test.mlf \
+#  -I ${DATA}/lab/test/scottn_test.mlf \
+#  resources/word_list \
+#  rec/simonk_test*.rec \
+#  rec/scottn_test*.rec

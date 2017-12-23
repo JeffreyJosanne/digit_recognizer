@@ -1,0 +1,25 @@
+#!/usr/local/bin/bash
+
+USER="s0231469"
+DATA="/Users/jeffrey/Downloads/UoE/Sem1/sp/digit_recogniser"
+
+shopt -s extglob
+for USER in `cat resources/user_list`
+do
+for F in `ls mfcc/test/${USER}_test?(_)??.mfcc`
+do
+ FF=`basename $F .mfcc`
+
+ echo
+ echo Doing $F
+
+ HVite -T 1 -C resources/CONFIG \
+	-d models/hmm1 \
+	-l rec \
+	-w resources/grammar_as_network \
+	resources/dictionary \
+	resources/word_list \
+	$F
+
+done
+done

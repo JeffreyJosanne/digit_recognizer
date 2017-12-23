@@ -1,0 +1,29 @@
+====================== HTK Results Analysis =======================
+  Date: Wed Nov 29 00:07:27 2017
+  Ref : everyone.mlf
+  Rec : rec/s0452991_test_01.rec
+      : rec/s0452991_test_02.rec
+      : rec/s0452991_test_03.rec
+      : rec/s0452991_test_04.rec
+      : rec/s0452991_test_05.rec
+------------------------ Overall Results --------------------------
+SENT: %Correct=73.33 [H=22, S=8, N=30]
+WORD: %Corr=73.33, Acc=73.33 [H=22, D=0, S=8, I=0, N=30]
+------------------------ Confusion Matrix -------------------------
+       o   t   t   f   s   s   e   n 
+       n   w   h   i   i   e   i   i 
+       e   o   r   v   x   v   g   n 
+               e   e       e   h   e 
+               e           n   t      Del [ %c / %e]
+zero   3   0   0   0   0   0   0   0    0 [ 0.0/10.0]
+ one   3   0   0   0   0   0   0   0    0
+ two   0   3   0   0   0   0   0   0    0
+thre   0   0   3   0   0   0   0   0    0
+four   3   0   0   0   0   0   0   0    0 [ 0.0/10.0]
+five   0   0   0   3   0   0   0   0    0
+ six   0   0   0   0   3   0   0   0    0
+seve   2   0   0   0   0   1   0   0    0 [33.3/6.7]
+eigh   0   0   0   0   0   0   3   0    0
+nine   0   0   0   0   0   0   0   3    0
+Ins    0   0   0   0   0   0   0   0
+===================================================================

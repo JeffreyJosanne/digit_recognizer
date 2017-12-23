@@ -1,0 +1,42 @@
+#!/usr/local/bin/bash
+
+USER="s0231469"
+DATA="/Users/jeffrey/Downloads/UoE/Sem1/sp/digit_recogniser"
+
+# how many states is determined by the choice of prototype model
+# remember - two of these states are dummy, so the 3state model only 
+# has a single emitting state
+
+PROTO=5state
+set -x
+for USER in `cat resources/user_list`
+do
+# initialise each model
+for WORD in `cat resources/word_list`
+do
+
+ echo Initialising model of $WORD
+
+ HInit -T 1 \
+	-G ESPS \
+        -m 1 \
+        -C resources/CONFIG \
+        -l $WORD \
+        -M models/hmm0 \
+        -o $WORD \
+        -L lab/train \
+	models/proto/$PROTO \
+	mfcc/train/${USER}_train.mfcc
+done
+
+done
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+#!/usr/local/bin/bash
+
+USER="s0231469"
+DATA="/Users/jeffrey/Downloads/UoE/Sem1/sp/digit_recogniser"
+
+rm TrainFiles
+touch TrainFiles
+
+for USER in `cat resources/user_list`
+do
+echo "$USERLIST ${DATA}/mfcc/train/${USER}_train.mfcc" >> TrainFiles
+done
+
+cat TrainFiles
+# # train each initialised model
+for WORD in `cat /Users/jeffrey/Downloads/UoE/Sem1/sp/digit_recogniser/resources/word_list`
+do
+
+ echo training model of $WORD
+
+ HRest -T 1 \
+	-G ESPS \
+        -m 1 \
+        -C resources/CONFIG \
+        -l $WORD \
+        -M models/hmm1 \
+        -S TrainFiles \
+        -L lab/train/ \
+	models/hmm0/$WORD
+
+done
+

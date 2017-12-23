@@ -1,0 +1,8 @@
+data/
+data-old/
+lab/
+mfcc/
+models/
+rec/
+resources/
+wav/
